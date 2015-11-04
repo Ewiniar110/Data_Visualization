@@ -5,3 +5,11 @@ C:\Users\Pan\Desktop\YelpDataAnlys_Vis-master\YelpDataAnalyse\YelpDataAnalyse\bi
 C:\Users\Pan\Desktop\YelpDataAnlys_Vis-master\YelpDataAnalyse\YelpDataAnalyse\obj\Debug\YelpDataAnalyse.csprojResolveAssemblyReference.cache
 C:\Users\Pan\Desktop\YelpDataAnlys_Vis-master\YelpDataAnalyse\YelpDataAnalyse\obj\Debug\YelpDataAnalyse.dll
 C:\Users\Pan\Desktop\YelpDataAnlys_Vis-master\YelpDataAnalyse\YelpDataAnalyse\obj\Debug\YelpDataAnalyse.pdb
+C:\Users\Pan\Documents\Data_Visualization\YelpDataAnalyse\bin\YelpDataAnalyse.dll.config
+C:\Users\Pan\Documents\Data_Visualization\YelpDataAnalyse\bin\YelpDataAnalyse.dll
+C:\Users\Pan\Documents\Data_Visualization\YelpDataAnalyse\bin\YelpDataAnalyse.pdb
+C:\Users\Pan\Documents\Data_Visualization\YelpDataAnalyse\bin\Newtonsoft.Json.dll
+C:\Users\Pan\Documents\Data_Visualization\YelpDataAnalyse\bin\Newtonsoft.Json.xml
+C:\Users\Pan\Documents\Data_Visualization\YelpDataAnalyse\obj\Debug\YelpDataAnalyse.csprojResolveAssemblyReference.cache
+C:\Users\Pan\Documents\Data_Visualization\YelpDataAnalyse\obj\Debug\YelpDataAnalyse.dll
+C:\Users\Pan\Documents\Data_Visualization\YelpDataAnalyse\obj\Debug\YelpDataAnalyse.pdb
